@@ -42,7 +42,7 @@ features                                  :
 
   - title                                 : Check pins close by
     description                           : Slide to verify your location and check the pin
-    fontawesome_icon_name                 : check-circle-o
+    fontawesome_icon_name                 : check
 
   - title                                 : Capture with image
     description                           : Add images to capture and remember each moment
